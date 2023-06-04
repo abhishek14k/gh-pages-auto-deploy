@@ -1,6 +1,5 @@
 name: Deploy Code to Release Branch
 on:
-  on:
   push:
     branches:
       - main
