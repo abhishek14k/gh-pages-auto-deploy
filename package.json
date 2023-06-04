@@ -1,5 +1,6 @@
 {
   "name": "random-gh-pages-test",
+  "homepage": "http://abhishek14k.github.io/gh-pages-deploy-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
